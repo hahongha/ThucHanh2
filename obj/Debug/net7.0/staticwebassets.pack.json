@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\upload\\Screenshot4.png"
     },
     {
+      "Id": "D:\\ha\\ki1nam3\\web\\Lab1\\wwwroot\\upload\\chibi.jpg",
+      "PackagePath": "staticwebassets\\upload\\chibi.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Lab1.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
